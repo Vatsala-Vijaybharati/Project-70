@@ -42,6 +42,9 @@ input
 {
   line-height: 2;
 }
-
-
-
+h4{
+    font-family: 'Varela Round', sans-serif;
+}
+h2{
+    font-family: 'Roboto Slab', serif;
+}
